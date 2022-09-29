@@ -1,6 +1,6 @@
-# Remix K-pop Stack
+# king love
 
-![k-pop site image](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1648844684/CleanShot_2022-04-01_at_16.23.40_2x_oo3ppe.jpg)
+![Instagram fsite image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU7J8kVpE1RTitA4oqltgP2lTBHDLONZfFoF_HAMwyUi19vQKD8YxnbHbJ&s=10)
 
 Deployed Site: [kpop-stack.netlify.app](https://kpop-stack.netlify.app)
 
